@@ -1,3 +1,4 @@
+I am going to be working on CakeAdminPHP and CakeAdminLTE first, feel free to join me =]
 # CakePHP Dashboard Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
